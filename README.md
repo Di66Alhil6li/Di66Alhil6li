@@ -5,7 +5,7 @@
 🌱 Currently working heavily with Flutter (GetX), AI Prompt Engineering, and mastering Object-Oriented Analysis and Design (OOAD).<br>
 🚀 I enjoy building practical software solutions, from e-commerce mobile applications like "جَمّ" to robust desktop and web systems like HRMS and Microfinance management platforms.<br>
 💞️ I’m looking to collaborate on Full-Stack web projects (PHP, React, C# WinForms), UI/UX design challenges, and practical software engineering applications.<br>
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/di66-alhil6li) or explore my visual and wireframe designs on [Behance](https://www.behance.net/di66-alhil6li).<br>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/di66-alhil6li) or explore my visual and wireframe designs on [Behance](https://www.behance.net/di66alhil6li).<br>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/di66alhil6li) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Di66Alhil6li) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/di66_alhil6li) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/di66-alhil6li) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Di66Alhil6li) 
