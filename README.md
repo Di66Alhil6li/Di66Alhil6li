@@ -8,7 +8,7 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/di66-alhil6li) or explore my visual and wireframe designs on [Behance](https://www.behance.net/di66-alhil6li).<br>
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/di66-alhil6li) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Di66Alhil6li) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/di66_alhil6li) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/di66-alhil6li) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Di66Alhil6li) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/di66alhil6li) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Di66Alhil6li) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/di66_alhil6li) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/di66-alhil6li) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Di66Alhil6li) 
 
 # 💻 Tech Stack:
 
